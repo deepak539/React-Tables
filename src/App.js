@@ -1,4 +1,3 @@
-import "./App.css";
 import { Provider } from "redux-bundler-react";
 import UsersContainer from "./Components/UsersContainer";
 import createStore from './bundles';
